@@ -1,0 +1,371 @@
+1/1/2002 12:00 AM
+   to
+8/20/2013 9:15 AM
+
+Revision 1
+
+
+
+Total value of pickup $312832.00
+
+There should be no cash in the courier tray
+
+There should be no checks in the courier tray
+
+
+BILL ACCEPTOR COUNTS
+Denomination      1      2    Total    Value
+$1             2236   2518    4754     $4754
+$2                6      8      14       $28
+$5             1098   1212    2310    $11550
+$10             351    389     740     $7400
+$20            3863   5837    9700   $194000
+$50              72    230     302    $15100
+$100            144    656     800    $80000
+All            7770  10850   18620
+Value        106508 206324           $312832
+
+
+Total
+Denomination    Count         Value
+$1               4754         $4754
+$2                 14           $28
+$5               2310        $11550
+$10               740         $7400
+$20              9700       $194000
+$50               302        $15100
+$100              800        $80000
+All             18620       $312832
+
+
+
+Breakdown by business day
+
+Partial day ending 5/20/2013 12:15 AM
+
+Acceptor cash:                      $5823.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $5823.00
+
+Business day ending 5/21/2013 12:15 AM
+
+Acceptor cash:                      $8583.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $8583.00
+
+Business day ending 5/22/2013 12:15 AM
+
+Acceptor cash:                      $6767.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $6767.00
+
+Business day ending 5/23/2013 12:15 AM
+
+Acceptor cash:                      $7870.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $7870.00
+
+Business day ending 5/24/2013 12:15 AM
+
+Acceptor cash:                      $6158.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $6158.00
+
+Business day ending 5/25/2013 12:15 AM
+
+Acceptor cash:                      $9592.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $9592.00
+
+Business day ending 5/26/2013 12:15 AM
+
+Acceptor cash:                      $6736.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $6736.00
+
+Business day ending 5/27/2013 12:15 AM
+
+Acceptor cash:                      $4150.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $4150.00
+
+Business day ending 5/28/2013 12:15 AM
+
+Acceptor cash:                      $4968.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $4968.00
+
+Business day ending 5/29/2013 12:15 AM
+
+Acceptor cash:                      $8509.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $8509.00
+
+Business day ending 5/30/2013 12:15 AM
+
+Acceptor cash:                      $5801.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $5801.00
+
+Business day ending 5/31/2013 12:15 AM
+
+Acceptor cash:                      $6457.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $6457.00
+
+Business day ending 6/1/2013 12:15 AM
+
+Acceptor cash:                      $9555.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $9555.00
+
+Business day ending 6/2/2013 12:15 AM
+
+Acceptor cash:                      $5748.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $5748.00
+
+Business day ending 6/3/2013 12:15 AM
+
+Acceptor cash:                      $5150.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $5150.00
+
+Business day ending 6/4/2013 12:15 AM
+
+Acceptor cash:                      $9611.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $9611.00
+
+Business day ending 6/5/2013 12:15 AM
+
+Acceptor cash:                      $6406.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $6406.00
+
+Business day ending 6/6/2013 12:15 AM
+
+Acceptor cash:                      $7040.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $7040.00
+
+Business day ending 6/7/2013 12:15 AM
+
+Acceptor cash:                      $7564.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $7564.00
+
+Business day ending 6/8/2013 12:15 AM
+
+Acceptor cash:                      $7345.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $7345.00
+
+Business day ending 6/9/2013 12:15 AM
+
+Acceptor cash:                      $8180.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $8180.00
+
+Business day ending 6/10/2013 12:15 AM
+
+Acceptor cash:                      $5688.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $5688.00
+
+Business day ending 6/11/2013 12:15 AM
+
+Acceptor cash:                      $6595.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $6595.00
+
+Business day ending 6/12/2013 12:15 AM
+
+Acceptor cash:                      $6829.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $6829.00
+
+Business day ending 6/13/2013 12:15 AM
+
+Acceptor cash:                      $6101.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $6101.00
+
+Business day ending 6/14/2013 12:15 AM
+
+Acceptor cash:                      $6413.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $6413.00
+
+Business day ending 6/15/2013 12:15 AM
+
+Acceptor cash:                      $7175.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $7175.00
+
+Business day ending 6/16/2013 12:15 AM
+
+Acceptor cash:                      $8644.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $8644.00
+
+Business day ending 6/17/2013 12:15 AM
+
+Acceptor cash:                      $5349.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $5349.00
+
+Business day ending 6/18/2013 12:15 AM
+
+Acceptor cash:                      $7698.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $7698.00
+
+Business day ending 6/19/2013 12:15 AM
+
+Acceptor cash:                      $6408.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $6408.00
+
+Business day ending 6/20/2013 12:15 AM
+
+Acceptor cash:                      $7688.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $7688.00
+
+Business day ending 6/21/2013 12:15 AM
+
+Acceptor cash:                      $6474.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $6474.00
+
+Business day ending 6/22/2013 12:15 AM
+
+Acceptor cash:                      $7388.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $7388.00
+
+Business day ending 6/23/2013 12:15 AM
+
+Acceptor cash:                      $6671.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $6671.00
+
+Business day ending 6/24/2013 12:15 AM
+
+Acceptor cash:                      $5121.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $5121.00
+
+Business day ending 6/25/2013 12:15 AM
+
+Acceptor cash:                      $7639.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $7639.00
+
+Business day ending 6/26/2013 12:15 AM
+
+Acceptor cash:                      $6258.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $6258.00
+
+Business day ending 6/27/2013 12:15 AM
+
+Acceptor cash:                      $6527.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $6527.00
+
+Business day ending 6/28/2013 12:15 AM
+
+Acceptor cash:                      $6706.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $6706.00
+
+Business day ending 6/29/2013 12:15 AM
+
+Acceptor cash:                     $10788.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:               $10788.00
+
+Business day ending 6/30/2013 12:15 AM
+
+Acceptor cash:                      $6421.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $6421.00
+
+Business day ending 7/1/2013 12:15 AM
+
+Acceptor cash:                      $6080.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $6080.00
+
+Business day ending 7/2/2013 12:15 AM
+
+Acceptor cash:                      $8344.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $8344.00
+
+Partial day up to 8/20/2013 9:15 AM
+
+Acceptor cash:                      $5814.00
+Courier tray cash deposits:            $0.00
+Courier tray check deposits:           $0.00
+Total deposit value:                $5814.00
+
+
+# of envelopes in courier tray:_ _ _ _ _ _ _
+
+
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Courier
+
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Store Representative
+
+
